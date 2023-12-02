@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Preeti Sharma</h1>
 <h3 align="center">I am learning to use data to training models.</h3>
 
-- 🤝 I’m looking for help with **python**
+- 🤝 I’m looking for help with **java**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **java**
 
 - 📫 How to reach me **preeti1911.cc2gmail.com**
 
